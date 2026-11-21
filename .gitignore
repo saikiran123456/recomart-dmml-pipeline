@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.pyc
+landing_zone/
+dvc_storage/
+mlflow.db
+mlruns/
