@@ -1,0 +1,35 @@
+[
+  {
+    "stage": "1. Raw Data Lake",
+    "path": "data/raw",
+    "dvc_file": "data/raw.dvc",
+    "sources": "Kaggle Retailrocket CSV, Olist CSVs (6 files), DummyJSON & FakeStore REST APIs",
+    "transformations": "Automated batch & near-real-time micro-batch ingestion; partitioned by source/type/dt",
+    "md5": "e64eefe16a47cf558ab35cd029e77b61.dir",
+    "size_mb": 114.68,
+    "nfiles": 45,
+    "recorded_at": "2026-11-21 16:13:37"
+  },
+  {
+    "stage": "2. Cleaned & Prepared Datasets",
+    "path": "data/processed",
+    "dvc_file": "data/processed.dvc",
+    "sources": "data/raw (validated via Great Expectations)",
+    "transformations": "Deduplication (reviews & clickstreams), missing category imputation, label encoding, Min-Max scaling",
+    "md5": "eb18d3cfdf54b69d88d48ca897044e53.dir",
+    "size_mb": 17.61,
+    "nfiles": 3,
+    "recorded_at": "2026-11-21 16:13:37"
+  },
+  {
+    "stage": "3. Engineered Feature Tables",
+    "path": "data/features",
+    "dvc_file": "data/features.dvc",
+    "sources": "data/processed + External API sentiment/popularity JSONs",
+    "transformations": "User/item aggregations, co-occurrence cosine similarity, PostgreSQL load, Feast Parquet export",
+    "md5": "0e637fb1165a38f63700cf0e7a3c3784.dir",
+    "size_mb": 4.79,
+    "nfiles": 3,
+    "recorded_at": "2026-11-21 16:13:37"
+  }
+]

@@ -1,0 +1,40 @@
+2026-11-19 19:29:09,866 | INFO | === Starting Task 5: Data Preparation & EDA ===
+2026-11-19 19:29:15,183 | INFO | Clickstream cleaned: 50,000 -> 41,783 rows
+2026-11-19 19:29:22,862 | INFO | Prepared Interactions: 112,650 rows | Users: 95,420 | Items: 32,951 | Sparsity: 99.9964%
+2026-11-19 19:29:26,526 | INFO | Saved cleaned Parquet datasets to data/processed/
+2026-11-19 19:29:27,669 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-19 19:29:27,672 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-19 19:29:32,577 | INFO | Saved EDA summary plots -> reports/05_eda_summary_plots.png and reports/05_eda_summary_plots.pdf
+2026-11-19 19:29:32,577 | INFO | === Task 5 Completed Successfully ===
+2026-11-21 11:38:07,776 | INFO | === Starting Task 5: Data Preparation & EDA ===
+2026-11-21 11:38:10,809 | INFO | Clickstream cleaned: 50,000 -> 41,783 rows
+2026-11-21 11:38:13,724 | INFO | Prepared Interactions: 112,650 rows | Users: 95,420 | Items: 32,951 | Sparsity: 99.9964%
+2026-11-21 11:38:17,561 | INFO | Saved cleaned Parquet datasets to data/processed/
+2026-11-21 11:38:18,948 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-21 11:38:18,949 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-21 11:38:23,642 | INFO | Saved EDA summary plots -> reports/05_eda_summary_plots.png and reports/05_eda_summary_plots.pdf
+2026-11-21 11:38:23,643 | INFO | === Task 5 Completed Successfully ===
+2026-11-21 12:50:49,146 | INFO | === Starting Task 5: Data Preparation & EDA ===
+2026-11-21 12:50:51,484 | INFO | Clickstream cleaned: 50,000 -> 41,783 rows
+2026-11-21 12:50:52,948 | INFO | Prepared Interactions: 112,650 rows | Users: 95,420 | Items: 32,951 | Sparsity: 99.9964%
+2026-11-21 12:50:54,481 | INFO | Saved cleaned Parquet datasets to data/processed/
+2026-11-21 12:50:55,093 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-21 12:50:55,094 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-21 12:50:57,841 | INFO | Saved EDA summary plots -> reports/05_eda_summary_plots.png and reports/05_eda_summary_plots.pdf
+2026-11-21 12:50:57,842 | INFO | === Task 5 Completed Successfully ===
+2026-11-21 15:33:33,863 | INFO | === Starting Task 5: Data Preparation & EDA ===
+2026-11-21 15:33:36,229 | INFO | Clickstream cleaned: 50,000 -> 41,783 rows
+2026-11-21 15:33:37,657 | INFO | Prepared Interactions: 112,650 rows | Users: 95,420 | Items: 32,951 | Sparsity: 99.9964%
+2026-11-21 15:33:39,867 | INFO | Saved cleaned Parquet datasets to data/processed/
+2026-11-21 15:33:40,513 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-21 15:33:40,514 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-21 15:33:44,705 | INFO | Saved EDA summary plots -> reports/05_eda_summary_plots.png and reports/05_eda_summary_plots.pdf
+2026-11-21 15:33:44,706 | INFO | === Task 5 Completed Successfully ===
+2026-11-21 16:12:03,571 | INFO | === Starting Task 5: Data Preparation & EDA ===
+2026-11-21 16:12:05,785 | INFO | Clickstream cleaned: 50,000 -> 41,783 rows
+2026-11-21 16:12:07,162 | INFO | Prepared Interactions: 112,650 rows | Users: 95,420 | Items: 32,951 | Sparsity: 99.9964%
+2026-11-21 16:12:09,315 | INFO | Saved cleaned Parquet datasets to data/processed/
+2026-11-21 16:12:09,775 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-21 16:12:09,776 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-21 16:12:12,775 | INFO | Saved EDA summary plots -> reports/05_eda_summary_plots.png and reports/05_eda_summary_plots.pdf
+2026-11-21 16:12:12,775 | INFO | === Task 5 Completed Successfully ===

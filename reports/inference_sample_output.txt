@@ -1,0 +1,15 @@
+Customer ID: 871766c5855e863f6eccc05f988b23cb
+Online Features (Redis): orders=1, spend=58.9, avg_rating=5.0
+
+Top-10 Recommended Products:
+                      product_id category_english  avg_price  item_avg_rating  external_popularity_score  match_score
+d7d5562fce331ad958ca6f57057b3526       cool_stuff      62.89             4.38                      3.118          1.0
+b476607319330ff5e387b50aa3ee909f       cool_stuff      64.90             4.50                      3.204          1.0
+db12039c7ff4e850d48e0312fa9b3473       cool_stuff      50.14             4.43                      3.153          1.0
+1168ebbaa08c1f416c8c880dd470171c       cool_stuff      69.99             4.50                      3.204          1.0
+3e31fd1419cc4cd6adad1925e72e3a03       cool_stuff      56.33             4.57                      3.255          1.0
+03b58043df5d7424df7eac2be2511c51       cool_stuff      46.55             4.40                      3.133          1.0
+725cbfcaff95a4d43742fdf13cf43c75       cool_stuff      45.21             4.42                      3.148          1.0
+ce8139ec854c7484df66f211738c0746       cool_stuff      69.90             4.33                      3.085          1.0
+f264c1d9b20b5e4a340254d0405e613b       cool_stuff      71.07             4.34                      3.090          1.0
+f175811ea0e0a865f56125dfbb04a8a6       cool_stuff      71.99             4.33                      3.085          1.0

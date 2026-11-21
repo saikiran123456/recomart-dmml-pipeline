@@ -1,0 +1,11 @@
+project: recomart_feature_store
+registry:
+  path: data/registry.db
+  cache_ttl_seconds: 600
+provider: local
+online_store:
+  type: redis
+  connection_string: "localhost:6379"
+offline_store:
+  type: file
+entity_key_serialization_version: 3

@@ -1,0 +1,35 @@
+2026-11-19 18:47:58,309 | INFO | === Starting Near-Real-Time Stream (5 micro-batches) ===
+2026-11-19 18:47:58,590 | INFO | Micro-batch 1/5 -> Uploaded stream/clickstream/dt=2026-11-19/batch_184758.json & updated 20 Redis keys
+2026-11-19 18:48:01,727 | INFO | Micro-batch 2/5 -> Uploaded stream/clickstream/dt=2026-11-19/batch_184801.json & updated 20 Redis keys
+2026-11-19 18:48:04,846 | INFO | Micro-batch 3/5 -> Uploaded stream/clickstream/dt=2026-11-19/batch_184804.json & updated 20 Redis keys
+2026-11-19 18:48:07,965 | INFO | Micro-batch 4/5 -> Uploaded stream/clickstream/dt=2026-11-19/batch_184807.json & updated 20 Redis keys
+2026-11-19 18:48:11,061 | INFO | Micro-batch 5/5 -> Uploaded stream/clickstream/dt=2026-11-19/batch_184810.json & updated 20 Redis keys
+2026-11-19 18:48:11,064 | INFO | === Near-Real-Time Stream Completed ===
+2026-11-21 11:36:54,819 | INFO | === Starting Near-Real-Time Stream (5 micro-batches) ===
+2026-11-21 11:36:54,959 | INFO | Micro-batch 1/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_113654.json & updated 20 Redis keys
+2026-11-21 11:36:58,023 | INFO | Micro-batch 2/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_113657.json & updated 20 Redis keys
+2026-11-21 11:37:01,077 | INFO | Micro-batch 3/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_113701.json & updated 20 Redis keys
+2026-11-21 11:37:04,217 | INFO | Micro-batch 4/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_113704.json & updated 20 Redis keys
+2026-11-21 11:37:07,285 | INFO | Micro-batch 5/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_113707.json & updated 20 Redis keys
+2026-11-21 11:37:07,285 | INFO | === Near-Real-Time Stream Completed ===
+2026-11-21 12:50:05,262 | INFO | === Starting Near-Real-Time Stream (5 micro-batches) ===
+2026-11-21 12:50:05,440 | INFO | Micro-batch 1/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_125005.json & updated 20 Redis keys
+2026-11-21 12:50:08,528 | INFO | Micro-batch 2/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_125008.json & updated 20 Redis keys
+2026-11-21 12:50:11,574 | INFO | Micro-batch 3/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_125011.json & updated 20 Redis keys
+2026-11-21 12:50:14,699 | INFO | Micro-batch 4/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_125014.json & updated 20 Redis keys
+2026-11-21 12:50:17,861 | INFO | Micro-batch 5/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_125017.json & updated 20 Redis keys
+2026-11-21 12:50:17,862 | INFO | === Near-Real-Time Stream Completed ===
+2026-11-21 15:32:25,974 | INFO | === Starting Near-Real-Time Stream (5 micro-batches) ===
+2026-11-21 15:32:26,758 | INFO | Micro-batch 1/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_153226.json & updated 20 Redis keys
+2026-11-21 15:32:30,014 | INFO | Micro-batch 2/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_153229.json & updated 20 Redis keys
+2026-11-21 15:32:33,072 | INFO | Micro-batch 3/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_153233.json & updated 20 Redis keys
+2026-11-21 15:32:36,148 | INFO | Micro-batch 4/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_153236.json & updated 20 Redis keys
+2026-11-21 15:32:39,383 | INFO | Micro-batch 5/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_153239.json & updated 20 Redis keys
+2026-11-21 15:32:39,383 | INFO | === Near-Real-Time Stream Completed ===
+2026-11-21 16:11:07,998 | INFO | === Starting Near-Real-Time Stream (5 micro-batches) ===
+2026-11-21 16:11:08,377 | INFO | Micro-batch 1/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_161108.json & updated 20 Redis keys
+2026-11-21 16:11:11,432 | INFO | Micro-batch 2/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_161111.json & updated 20 Redis keys
+2026-11-21 16:11:14,474 | INFO | Micro-batch 3/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_161114.json & updated 20 Redis keys
+2026-11-21 16:11:17,592 | INFO | Micro-batch 4/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_161117.json & updated 20 Redis keys
+2026-11-21 16:11:20,684 | INFO | Micro-batch 5/5 -> Uploaded stream/clickstream/dt=2026-11-21/batch_161120.json & updated 20 Redis keys
+2026-11-21 16:11:20,684 | INFO | === Near-Real-Time Stream Completed ===

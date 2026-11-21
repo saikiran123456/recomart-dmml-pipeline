@@ -1,0 +1,32 @@
+2026-11-21 12:19:04,256 | INFO | === Starting Task 9: Model Training, Evaluation & MLflow Tracking ===
+2026-11-21 12:19:08,711 | INFO | Dataset Split -> Train pairs: 96,531 | Test held-out pairs: 5,456 (Multi-item users: 5,456)
+2026-11-21 12:20:09,742 | INFO | Training Collaborative Filtering (SVD, k=25)...
+2026-11-21 12:20:11,696 | INFO | [SVD] Run ID: c494a210d5d542eab4ab0a70112ba30a | Metrics: {'precision_at_10': 0.0466, 'recall_at_10': 0.466, 'ndcg_at_10': 0.2946}
+2026-11-21 12:20:11,963 | INFO | Training Content-Based Filtering (Category TF-IDF + Numeric Features)...
+2026-11-21 12:20:13,489 | INFO | [Content-Based] Run ID: a416d532e456497eb3a53ec81d435f88 | Metrics: {'precision_at_10': 0.061, 'recall_at_10': 0.61, 'ndcg_at_10': 0.451}
+2026-11-21 12:20:16,977 | INFO | Generated Model Performance Report -> reports/09_model_performance_report.pdf
+2026-11-21 12:20:16,977 | INFO | === Task 9 Completed Successfully ===
+2026-11-21 12:52:38,403 | INFO | === Starting Task 9: Model Training, Evaluation & MLflow Tracking ===
+2026-11-21 12:52:39,229 | INFO | Dataset Split -> Train pairs: 96,531 | Test held-out pairs: 5,456 (Multi-item users: 5,456)
+2026-11-21 12:52:47,623 | INFO | Training Collaborative Filtering (SVD, k=25)...
+2026-11-21 12:52:49,479 | INFO | [SVD] Run ID: 2e2cec23704840ebae21223b2fefd89d | Metrics: {'precision_at_10': 0.0466, 'recall_at_10': 0.466, 'ndcg_at_10': 0.2945}
+2026-11-21 12:52:49,755 | INFO | Training Content-Based Filtering (Category TF-IDF + Numeric Features)...
+2026-11-21 12:52:50,951 | INFO | [Content-Based] Run ID: 3c46efdfa00d4242ba91b80b91d097be | Metrics: {'precision_at_10': 0.061, 'recall_at_10': 0.61, 'ndcg_at_10': 0.451}
+2026-11-21 12:52:52,249 | INFO | Generated Model Performance Report -> reports/09_model_performance_report.pdf
+2026-11-21 12:52:52,249 | INFO | === Task 9 Completed Successfully ===
+2026-11-21 15:35:32,736 | INFO | === Starting Task 9: Model Training, Evaluation & MLflow Tracking ===
+2026-11-21 15:35:33,514 | INFO | Dataset Split -> Train pairs: 96,531 | Test held-out pairs: 5,456 (Multi-item users: 5,456)
+2026-11-21 15:35:41,847 | INFO | Training Collaborative Filtering (SVD, k=25)...
+2026-11-21 15:35:43,691 | INFO | [SVD] Run ID: 9dd12f7d8e244bf5ba55d3254520dc7f | Metrics: {'precision_at_10': 0.0466, 'recall_at_10': 0.466, 'ndcg_at_10': 0.2945}
+2026-11-21 15:35:44,688 | INFO | Training Content-Based Filtering (Category TF-IDF + Numeric Features)...
+2026-11-21 15:35:45,632 | INFO | [Content-Based] Run ID: dca2352d29db4df89dce20534b116201 | Metrics: {'precision_at_10': 0.061, 'recall_at_10': 0.61, 'ndcg_at_10': 0.451}
+2026-11-21 15:35:46,718 | INFO | Generated Model Performance Report -> reports/09_model_performance_report.pdf
+2026-11-21 15:35:46,718 | INFO | === Task 9 Completed Successfully ===
+2026-11-21 16:13:52,048 | INFO | === Starting Task 9: Model Training, Evaluation & MLflow Tracking ===
+2026-11-21 16:13:52,806 | INFO | Dataset Split -> Train pairs: 96,531 | Test held-out pairs: 5,456 (Multi-item users: 5,456)
+2026-11-21 16:14:01,604 | INFO | Training Collaborative Filtering (SVD, k=25)...
+2026-11-21 16:14:03,327 | INFO | [SVD] Run ID: 49cace13c3864f15ba2ab3cd62166fb6 | Metrics: {'precision_at_10': 0.0466, 'recall_at_10': 0.466, 'ndcg_at_10': 0.2945}
+2026-11-21 16:14:03,641 | INFO | Training Content-Based Filtering (Category TF-IDF + Numeric Features)...
+2026-11-21 16:14:04,717 | INFO | [Content-Based] Run ID: 354a80ccc9d5416187358634bfe46e95 | Metrics: {'precision_at_10': 0.061, 'recall_at_10': 0.61, 'ndcg_at_10': 0.451}
+2026-11-21 16:14:05,893 | INFO | Generated Model Performance Report -> reports/09_model_performance_report.pdf
+2026-11-21 16:14:05,893 | INFO | === Task 9 Completed Successfully ===

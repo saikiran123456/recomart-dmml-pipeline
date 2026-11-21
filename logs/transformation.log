@@ -1,0 +1,21 @@
+2026-11-19 19:37:31,941 | INFO | === Starting Task 6: Feature Engineering & Warehouse Load ===
+2026-11-19 20:08:14,009 | INFO | === Starting Task 6: Feature Engineering & Warehouse Load ===
+2026-11-19 20:08:57,846 | INFO | Loaded PostgreSQL Warehouse -> dim_users (95,420), dim_items (32,951), fact_interactions (112,650), co_occurrence (4,058)
+2026-11-19 20:08:58,727 | INFO | Saved feature Parquet files to data/features/
+2026-11-19 20:08:58,727 | INFO | === Task 6 Completed Successfully ===
+2026-11-21 11:38:57,288 | INFO | === Starting Task 6: Feature Engineering & Warehouse Load ===
+2026-11-21 11:39:26,522 | INFO | Loaded PostgreSQL Warehouse -> dim_users (95,420), dim_items (32,951), fact_interactions (112,650), co_occurrence (4,058)
+2026-11-21 11:39:26,944 | INFO | Saved feature Parquet files to data/features/
+2026-11-21 11:39:26,945 | INFO | === Task 6 Completed Successfully ===
+2026-11-21 12:51:09,808 | INFO | === Starting Task 6: Feature Engineering & Warehouse Load ===
+2026-11-21 12:51:37,579 | INFO | Loaded PostgreSQL Warehouse -> dim_users (95,420), dim_items (32,951), fact_interactions (112,650), co_occurrence (4,058)
+2026-11-21 12:51:38,499 | INFO | Saved feature Parquet files to data/features/
+2026-11-21 12:51:38,499 | INFO | === Task 6 Completed Successfully ===
+2026-11-21 15:33:59,414 | INFO | === Starting Task 6: Feature Engineering & Warehouse Load ===
+2026-11-21 15:34:26,008 | INFO | Loaded PostgreSQL Warehouse -> dim_users (95,420), dim_items (32,951), fact_interactions (112,650), co_occurrence (4,058)
+2026-11-21 15:34:26,398 | INFO | Saved feature Parquet files to data/features/
+2026-11-21 15:34:26,398 | INFO | === Task 6 Completed Successfully ===
+2026-11-21 16:12:22,639 | INFO | === Starting Task 6: Feature Engineering & Warehouse Load ===
+2026-11-21 16:12:46,128 | INFO | Loaded PostgreSQL Warehouse -> dim_users (95,420), dim_items (32,951), fact_interactions (112,650), co_occurrence (4,058)
+2026-11-21 16:12:46,473 | INFO | Saved feature Parquet files to data/features/
+2026-11-21 16:12:46,473 | INFO | === Task 6 Completed Successfully ===

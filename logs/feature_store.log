@@ -1,0 +1,118 @@
+2026-11-19 20:17:21,778 | INFO | === Starting Task 7: Feast Feature Store Registration & Retrieval ===
+2026-11-19 20:18:17,639 | INFO | Executed `feast apply` -> Registry updated
+2026-11-19 20:18:20,847 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:20,856 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:20,857 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:20,953 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:20,955 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:20,957 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:20,959 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:31,148 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:31,170 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:31,172 | INFO | Registry cache expired, so refreshing
+2026-11-19 20:18:31,174 | INFO | Registry cache expired, so refreshing
+2026-11-20 20:54:10,246 | INFO | === Starting Task 7: Feast Feature Store Registration & Retrieval ===
+2026-11-20 20:54:49,947 | INFO | Executed `feast apply` -> Registry updated
+2026-11-20 20:54:55,160 | INFO | Pushed 1,010 users and 1,010 items into Redis online store
+2026-11-20 20:54:55,171 | INFO | Registry cache expired, so refreshing
+2026-11-20 20:54:55,174 | INFO | Registry cache expired, so refreshing
+2026-11-20 20:54:56,338 | INFO | Offline Historical Feature Retrieval Sample (5 rows):
+              customer_unique_id                       product_id                  event_timestamp  user_order_count  user_avg_rating  item_purchase_count  item_avg_rating  external_popularity_score
+871766c5855e863f6eccc05f988b23cb 4244733e06e7ecb4970a6e2683c13e61 2026-11-20 15:24:55.161163+00:00                 1              5.0                    9         4.444444                      3.164
+eb28e67c4c0b83846050ddfb8a35d051 e5f2d52b802189ee658865ca93d83a8f 2026-11-20 15:24:55.161163+00:00                 2              4.5                    1         4.000000                      2.848
+3818d81c6709e39d06b2738a8d3a2474 c777355d18b72b67abbeef9df44fd0fd 2026-11-20 15:24:55.161163+00:00                 1              5.0                    3         4.333333                      3.085
+af861d436cfc08b2c2ddefd0ba074622 7634da152a4610f1595efa32f14722fc 2026-11-20 15:24:55.161163+00:00                 1              4.0                    2         4.000000                      2.848
+64b576fb70d441e8f1b2d7d446e483c5 ac6c3623068f30de03045865e4e10089 2026-11-20 15:24:55.161163+00:00                 1              5.0                   12         3.833333                      2.729
+2026-11-20 20:54:56,590 | INFO | Online Inference Feature Vector (from Redis): {'customer_unique_id': ['871766c5855e863f6eccc05f988b23cb'], 'product_id': ['4244733e06e7ecb4970a6e2683c13e61'], 'user_total_spend': [58.9], 'user_order_count': [1], 'user_avg_rating': [5.0], 'external_popularity_score': [3.164], 'avg_price': [59.233333333333334], 'item_avg_rating': [4.444444444444445]}
+2026-11-20 20:54:56,612 | INFO | Generated Feature Metadata Documentation -> reports/07_feature_metadata_docs.md
+2026-11-20 20:54:56,613 | INFO | === Task 7 Completed Successfully ===
+2026-11-21 11:33:52,166 | INFO | === Starting Task 7: Feast Feature Store Registration & Retrieval ===
+2026-11-21 11:34:29,153 | INFO | Executed `feast apply` -> Registry updated
+2026-11-21 11:34:33,963 | INFO | Pushed 1,010 users and 1,010 items into Redis online store
+2026-11-21 11:34:34,000 | INFO | Registry cache expired, so refreshing
+2026-11-21 11:34:34,004 | INFO | Registry cache expired, so refreshing
+2026-11-21 11:34:35,615 | INFO | Offline Historical Feature Retrieval Sample (5 rows):
+              customer_unique_id                       product_id                  event_timestamp  user_order_count  user_avg_rating  item_purchase_count  item_avg_rating  external_popularity_score
+871766c5855e863f6eccc05f988b23cb 4244733e06e7ecb4970a6e2683c13e61 2026-11-21 06:04:33.964219+00:00                 1              5.0                    9         4.444444                      3.164
+eb28e67c4c0b83846050ddfb8a35d051 e5f2d52b802189ee658865ca93d83a8f 2026-11-21 06:04:33.964219+00:00                 2              4.5                    1         4.000000                      2.848
+3818d81c6709e39d06b2738a8d3a2474 c777355d18b72b67abbeef9df44fd0fd 2026-11-21 06:04:33.964219+00:00                 1              5.0                    3         4.333333                      3.085
+af861d436cfc08b2c2ddefd0ba074622 7634da152a4610f1595efa32f14722fc 2026-11-21 06:04:33.964219+00:00                 1              4.0                    2         4.000000                      2.848
+64b576fb70d441e8f1b2d7d446e483c5 ac6c3623068f30de03045865e4e10089 2026-11-21 06:04:33.964219+00:00                 1              5.0                   12         3.833333                      2.729
+2026-11-21 11:34:35,923 | INFO | Online Inference Feature Vector (from Redis): {'customer_unique_id': ['871766c5855e863f6eccc05f988b23cb'], 'product_id': ['4244733e06e7ecb4970a6e2683c13e61'], 'user_avg_rating': [5.0], 'user_total_spend': [58.9], 'user_order_count': [1], 'avg_price': [59.233333333333334], 'external_popularity_score': [3.164], 'item_avg_rating': [4.444444444444445]}
+2026-11-21 11:34:35,961 | INFO | Generated Feature Metadata Documentation -> reports/07_feature_metadata_docs.md
+2026-11-21 11:34:35,961 | INFO | === Task 7 Completed Successfully ===
+2026-11-21 11:40:05,108 | INFO | === Starting Task 7: Feast Feature Store Registration & Retrieval ===
+2026-11-21 11:40:27,275 | INFO | Executed `feast apply` -> Registry updated
+2026-11-21 11:40:30,373 | INFO | Pushed 1,010 users and 1,010 items into Redis online store
+2026-11-21 11:40:30,402 | INFO | Registry cache expired, so refreshing
+2026-11-21 11:40:30,406 | INFO | Registry cache expired, so refreshing
+2026-11-21 11:40:31,604 | INFO | Offline Historical Feature Retrieval Sample (5 rows):
+              customer_unique_id                       product_id                  event_timestamp  user_order_count  user_avg_rating  item_purchase_count  item_avg_rating  external_popularity_score
+871766c5855e863f6eccc05f988b23cb 4244733e06e7ecb4970a6e2683c13e61 2026-11-21 06:10:30.374341+00:00                 1              5.0                    9         4.444444                      3.164
+eb28e67c4c0b83846050ddfb8a35d051 e5f2d52b802189ee658865ca93d83a8f 2026-11-21 06:10:30.374341+00:00                 2              4.5                    1         4.000000                      2.848
+3818d81c6709e39d06b2738a8d3a2474 c777355d18b72b67abbeef9df44fd0fd 2026-11-21 06:10:30.374341+00:00                 1              5.0                    3         4.333333                      3.085
+af861d436cfc08b2c2ddefd0ba074622 7634da152a4610f1595efa32f14722fc 2026-11-21 06:10:30.374341+00:00                 1              4.0                    2         4.000000                      2.848
+64b576fb70d441e8f1b2d7d446e483c5 ac6c3623068f30de03045865e4e10089 2026-11-21 06:10:30.374341+00:00                 1              5.0                   12         3.833333                      2.729
+2026-11-21 11:40:31,702 | INFO | Online Inference Feature Vector (from Redis): {'customer_unique_id': ['871766c5855e863f6eccc05f988b23cb'], 'product_id': ['4244733e06e7ecb4970a6e2683c13e61'], 'user_avg_rating': [5.0], 'user_order_count': [1], 'user_total_spend': [58.9], 'item_avg_rating': [4.444444444444445], 'avg_price': [59.233333333333334], 'external_popularity_score': [3.164]}
+2026-11-21 11:40:31,703 | INFO | Generated Feature Metadata Documentation -> reports/07_feature_metadata_docs.md
+2026-11-21 11:40:31,703 | INFO | === Task 7 Completed Successfully ===
+2026-11-21 12:51:49,343 | INFO | === Starting Task 7: Feast Feature Store Registration & Retrieval ===
+2026-11-21 12:52:05,257 | INFO | Executed `feast apply` -> Registry updated
+2026-11-21 12:52:08,216 | INFO | Pushed 1,010 users and 1,010 items into Redis online store
+2026-11-21 12:52:08,248 | INFO | Registry cache expired, so refreshing
+2026-11-21 12:52:08,251 | INFO | Registry cache expired, so refreshing
+2026-11-21 12:52:09,561 | INFO | Offline Historical Feature Retrieval Sample (5 rows):
+              customer_unique_id                       product_id                  event_timestamp  user_order_count  user_avg_rating  item_purchase_count  item_avg_rating  external_popularity_score
+871766c5855e863f6eccc05f988b23cb 4244733e06e7ecb4970a6e2683c13e61 2026-11-21 07:22:08.217302+00:00                 1              5.0                    9         4.444444                      3.164
+eb28e67c4c0b83846050ddfb8a35d051 e5f2d52b802189ee658865ca93d83a8f 2026-11-21 07:22:08.217302+00:00                 2              4.5                    1         4.000000                      2.848
+3818d81c6709e39d06b2738a8d3a2474 c777355d18b72b67abbeef9df44fd0fd 2026-11-21 07:22:08.217302+00:00                 1              5.0                    3         4.333333                      3.085
+af861d436cfc08b2c2ddefd0ba074622 7634da152a4610f1595efa32f14722fc 2026-11-21 07:22:08.217302+00:00                 1              4.0                    2         4.000000                      2.848
+64b576fb70d441e8f1b2d7d446e483c5 ac6c3623068f30de03045865e4e10089 2026-11-21 07:22:08.217302+00:00                 1              5.0                   12         3.833333                      2.729
+2026-11-21 12:52:09,693 | INFO | Online Inference Feature Vector (from Redis): {'customer_unique_id': ['871766c5855e863f6eccc05f988b23cb'], 'product_id': ['4244733e06e7ecb4970a6e2683c13e61'], 'user_total_spend': [58.9], 'user_avg_rating': [5.0], 'user_order_count': [1], 'avg_price': [59.233333333333334], 'item_avg_rating': [4.444444444444445], 'external_popularity_score': [3.164]}
+2026-11-21 12:52:09,694 | INFO | Generated Feature Metadata Documentation -> reports/07_feature_metadata_docs.md
+2026-11-21 12:52:09,694 | INFO | === Task 7 Completed Successfully ===
+2026-11-21 15:23:00,208 | INFO | === Starting Task 7: Feast Feature Store Registration & Retrieval ===
+2026-11-21 15:23:18,529 | INFO | Executed `feast apply` -> Registry updated
+2026-11-21 15:23:21,605 | INFO | Pushed 1,010 users and 1,010 items into Redis online store
+2026-11-21 15:23:21,678 | INFO | Registry cache expired, so refreshing
+2026-11-21 15:23:21,680 | INFO | Registry cache expired, so refreshing
+2026-11-21 15:23:23,351 | INFO | Offline Historical Feature Retrieval Sample (5 rows):
+              customer_unique_id                       product_id                  event_timestamp  user_order_count  user_avg_rating  item_purchase_count  item_avg_rating  external_popularity_score
+871766c5855e863f6eccc05f988b23cb 4244733e06e7ecb4970a6e2683c13e61 2026-11-21 09:53:21.606827+00:00                 1              5.0                    9         4.444444                      3.164
+eb28e67c4c0b83846050ddfb8a35d051 e5f2d52b802189ee658865ca93d83a8f 2026-11-21 09:53:21.606827+00:00                 2              4.5                    1         4.000000                      2.848
+3818d81c6709e39d06b2738a8d3a2474 c777355d18b72b67abbeef9df44fd0fd 2026-11-21 09:53:21.606827+00:00                 1              5.0                    3         4.333333                      3.085
+af861d436cfc08b2c2ddefd0ba074622 7634da152a4610f1595efa32f14722fc 2026-11-21 09:53:21.606827+00:00                 1              4.0                    2         4.000000                      2.848
+64b576fb70d441e8f1b2d7d446e483c5 ac6c3623068f30de03045865e4e10089 2026-11-21 09:53:21.606827+00:00                 1              5.0                   12         3.833333                      2.729
+2026-11-21 15:23:23,392 | INFO | Online Inference Feature Vector (from Redis): {'customer_unique_id': ['871766c5855e863f6eccc05f988b23cb'], 'product_id': ['4244733e06e7ecb4970a6e2683c13e61'], 'user_order_count': [1], 'user_total_spend': [58.9], 'user_avg_rating': [5.0], 'item_avg_rating': [4.444444444444445], 'external_popularity_score': [3.164], 'avg_price': [59.233333333333334]}
+2026-11-21 15:23:23,408 | INFO | Generated Feature Metadata Documentation -> reports/07_feature_metadata_docs.md
+2026-11-21 15:23:23,408 | INFO | === Task 7 Completed Successfully ===
+2026-11-21 15:34:40,108 | INFO | === Starting Task 7: Feast Feature Store Registration & Retrieval ===
+2026-11-21 15:34:55,921 | INFO | Executed `feast apply` -> Registry updated
+2026-11-21 15:34:58,740 | INFO | Pushed 1,010 users and 1,010 items into Redis online store
+2026-11-21 15:34:58,775 | INFO | Registry cache expired, so refreshing
+2026-11-21 15:34:58,777 | INFO | Registry cache expired, so refreshing
+2026-11-21 15:35:00,201 | INFO | Offline Historical Feature Retrieval Sample (5 rows):
+              customer_unique_id                       product_id                  event_timestamp  user_order_count  user_avg_rating  item_purchase_count  item_avg_rating  external_popularity_score
+871766c5855e863f6eccc05f988b23cb 4244733e06e7ecb4970a6e2683c13e61 2026-11-21 10:04:58.741441+00:00                 1              5.0                    9         4.444444                      3.164
+eb28e67c4c0b83846050ddfb8a35d051 e5f2d52b802189ee658865ca93d83a8f 2026-11-21 10:04:58.741441+00:00                 2              4.5                    1         4.000000                      2.848
+3818d81c6709e39d06b2738a8d3a2474 c777355d18b72b67abbeef9df44fd0fd 2026-11-21 10:04:58.741441+00:00                 1              5.0                    3         4.333333                      3.085
+af861d436cfc08b2c2ddefd0ba074622 7634da152a4610f1595efa32f14722fc 2026-11-21 10:04:58.741441+00:00                 1              4.0                    2         4.000000                      2.848
+64b576fb70d441e8f1b2d7d446e483c5 ac6c3623068f30de03045865e4e10089 2026-11-21 10:04:58.741441+00:00                 1              5.0                   12         3.833333                      2.729
+2026-11-21 15:35:00,294 | INFO | Online Inference Feature Vector (from Redis): {'customer_unique_id': ['871766c5855e863f6eccc05f988b23cb'], 'product_id': ['4244733e06e7ecb4970a6e2683c13e61'], 'user_order_count': [1], 'user_avg_rating': [5.0], 'user_total_spend': [58.9], 'avg_price': [59.233333333333334], 'external_popularity_score': [3.164], 'item_avg_rating': [4.444444444444445]}
+2026-11-21 15:35:00,295 | INFO | Generated Feature Metadata Documentation -> reports/07_feature_metadata_docs.md
+2026-11-21 15:35:00,296 | INFO | === Task 7 Completed Successfully ===
+2026-11-21 16:13:02,264 | INFO | === Starting Task 7: Feast Feature Store Registration & Retrieval ===
+2026-11-21 16:13:19,148 | INFO | Executed `feast apply` -> Registry updated
+2026-11-21 16:13:21,694 | INFO | Pushed 1,010 users and 1,010 items into Redis online store
+2026-11-21 16:13:21,730 | INFO | Registry cache expired, so refreshing
+2026-11-21 16:13:21,733 | INFO | Registry cache expired, so refreshing
+2026-11-21 16:13:22,982 | INFO | Offline Historical Feature Retrieval Sample (5 rows):
+              customer_unique_id                       product_id                  event_timestamp  user_order_count  user_avg_rating  item_purchase_count  item_avg_rating  external_popularity_score
+871766c5855e863f6eccc05f988b23cb 4244733e06e7ecb4970a6e2683c13e61 2026-11-21 10:43:21.695241+00:00                 1              5.0                    9         4.444444                      3.164
+eb28e67c4c0b83846050ddfb8a35d051 e5f2d52b802189ee658865ca93d83a8f 2026-11-21 10:43:21.695241+00:00                 2              4.5                    1         4.000000                      2.848
+3818d81c6709e39d06b2738a8d3a2474 c777355d18b72b67abbeef9df44fd0fd 2026-11-21 10:43:21.695241+00:00                 1              5.0                    3         4.333333                      3.085
+af861d436cfc08b2c2ddefd0ba074622 7634da152a4610f1595efa32f14722fc 2026-11-21 10:43:21.695241+00:00                 1              4.0                    2         4.000000                      2.848
+64b576fb70d441e8f1b2d7d446e483c5 ac6c3623068f30de03045865e4e10089 2026-11-21 10:43:21.695241+00:00                 1              5.0                   12         3.833333                      2.729
+2026-11-21 16:13:23,103 | INFO | Online Inference Feature Vector (from Redis): {'customer_unique_id': ['871766c5855e863f6eccc05f988b23cb'], 'product_id': ['4244733e06e7ecb4970a6e2683c13e61'], 'user_avg_rating': [5.0], 'user_total_spend': [58.9], 'user_order_count': [1], 'item_avg_rating': [4.444444444444445], 'avg_price': [59.233333333333334], 'external_popularity_score': [3.164]}
+2026-11-21 16:13:23,105 | INFO | Generated Feature Metadata Documentation -> reports/07_feature_metadata_docs.md
+2026-11-21 16:13:23,105 | INFO | === Task 7 Completed Successfully ===

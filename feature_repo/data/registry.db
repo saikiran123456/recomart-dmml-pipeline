@@ -1,0 +1,71 @@
+
+z
+[
+product*Unique RecoMart product catalog identifier"
+product_idJrecomart_feature_store
+¯˜ü×ÀÕÚÆë…Ø¬Šµ
+{
+\
+customer"Unique RecoMart shopper identifier"customer_unique_idJrecomart_feature_store
+¯˜ü×Ğı½Æë…Ø¨âœ¶
+L
+-
+__dummy"
+__dummy_idJrecomart_feature_store
+¯˜ü×ĞãœÆë…Ø¨á¶1"$42d80803-3335-4a1d-bc7f-a342a7247542*Æë…ØØÙÚæ2Û
+»
+user_stats_featuresrecomart_feature_storecustomer"
+state_encoded"
+user_order_count"
+user_total_spend"
+user_avg_rating"
+user_click_events2€š:m
+updated_atZ(&../data/features/user_features.parquet¢user_features_source’Æë…Ø¨ë«3"Æë…Ø ¢ì¬@b
+customer_unique_id’latest
+¯˜ü×¨·ÀÆë…Ø˜½Ç±2­
+í
+item_stats_featuresrecomart_feature_storeproduct"
+category_encoded"
+	avg_price"
+price_normalized"
+item_purchase_count"
+item_avg_rating"
+external_popularity_score"
+external_sentiment_score2€š:m
+updated_atZ(&../data/features/item_features.parquet¢item_features_source’Æë…Ø¨©Á3"Æë…Ø ÌÛ­@b
+
+product_id’latest;
+¯˜ü× àÒÆë…Ø¸†µ
+´õö×ğĞ÷‘àšü×è£ù‘0bº
+updated_atZ(&../data/features/user_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢user_features_sourceªrecomart_feature_store’­˜ü×°Õä‚"¯˜ü× ¹âbº
+updated_atZ(&../data/features/item_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢item_features_sourceªrecomart_feature_store’­˜ü×ğ­†ƒ"¯˜ü× ˆœŠ7
+
+recomart_feature_store
+­˜ü×ğ­€…Æë…ØàøÕ4’¸
+²
+item_stats_featuresrecomart_feature_store"feature_view*Á
+¢
+item_stats_featuresrecomart_feature_storeproduct"
+category_encoded"
+	avg_price"
+price_normalized"
+item_purchase_count"
+item_avg_rating"
+external_popularity_score"
+external_sentiment_score2€š:¡
+updated_atZ(&../data/features/item_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢item_features_source’­˜ü×ğ­†ƒ"¯˜ü× ˆœ@b
+
+product_id’latest
+¯˜ü× àÒ¯˜ü× àÒ2¯˜ü×è‡»B$8786f479-ae63-45b1-975b-127cb1af7902
+€
+user_stats_featuresrecomart_feature_store"feature_view*
+ğ
+user_stats_featuresrecomart_feature_storecustomer"
+state_encoded"
+user_order_count"
+user_total_spend"
+user_avg_rating"
+user_click_events2€š:¡
+updated_atZ(&../data/features/user_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢user_features_source’­˜ü×°Õä‚"¯˜ü× ¹â@b
+customer_unique_id’latest
+¯˜ü×¨·À¯˜ü×¨·À2¯˜ü×Ğõ–B$ea7346a5-d865-4beb-a16a-f36e5b51beff

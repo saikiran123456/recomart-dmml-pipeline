@@ -1,0 +1,75 @@
+2026-11-19 18:52:15,877 | INFO | === Starting Data Profiling & Validation ===
+2026-11-19 18:52:16,266 | INFO | [clickstream_events] Rows=50,000 | Missing=0 | Dupes=9457 | Range=PASS (enum, bad=0) | WARN (Needs Cleaning)
+2026-11-19 18:52:17,838 | INFO | [orders] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-19 18:52:19,009 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmp8y_eq2a3' for ephemeral docs site
+2026-11-19 18:52:19,012 | INFO | Loading 'datasources' ->
+[]
+2026-11-19 18:52:20,132 | INFO | [order_items] Rows=112,650 | Missing=0 | Dupes=0 | Range=PASS (>0, bad=0) | PASS
+2026-11-19 18:52:21,338 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmp4k425bdg' for ephemeral docs site
+2026-11-19 18:52:21,340 | INFO | Loading 'datasources' ->
+[]
+2026-11-19 18:52:22,649 | INFO | [order_reviews] Rows=99,224 | Missing=0 | Dupes=814 | Range=PASS (1-5, bad=0) | WARN (Needs Cleaning)
+2026-11-19 18:52:23,320 | INFO | [customers] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-19 18:52:23,496 | INFO | [products] Rows=32,951 | Missing=610 | Dupes=0 | Range=N/A | WARN (Needs Cleaning)
+2026-11-19 18:52:27,515 | INFO | Generated Data Quality Report PDF -> reports/04_data_quality_report.pdf
+2026-11-19 18:52:27,516 | INFO | === Data Profiling & Validation Completed ===
+2026-11-21 11:37:46,289 | INFO | === Starting Data Profiling & Validation ===
+2026-11-21 11:37:46,378 | INFO | [clickstream_events] Rows=50,000 | Missing=0 | Dupes=9457 | Range=PASS (enum, bad=0) | WARN (Needs Cleaning)
+2026-11-21 11:37:47,038 | INFO | [orders] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-21 11:37:47,506 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmpcxq4amfw' for ephemeral docs site
+2026-11-21 11:37:47,508 | INFO | Loading 'datasources' ->
+[]
+2026-11-21 11:37:48,087 | INFO | [order_items] Rows=112,650 | Missing=0 | Dupes=0 | Range=PASS (>0, bad=0) | PASS
+2026-11-21 11:37:48,702 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmpu6tk6rv2' for ephemeral docs site
+2026-11-21 11:37:48,703 | INFO | Loading 'datasources' ->
+[]
+2026-11-21 11:37:49,404 | INFO | [order_reviews] Rows=99,224 | Missing=0 | Dupes=814 | Range=PASS (1-5, bad=0) | WARN (Needs Cleaning)
+2026-11-21 11:37:49,702 | INFO | [customers] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-21 11:37:49,800 | INFO | [products] Rows=32,951 | Missing=610 | Dupes=0 | Range=N/A | WARN (Needs Cleaning)
+2026-11-21 11:37:53,446 | INFO | Generated Data Quality Report PDF -> reports/04_data_quality_report.pdf
+2026-11-21 11:37:53,446 | INFO | === Data Profiling & Validation Completed ===
+2026-11-21 12:50:36,737 | INFO | === Starting Data Profiling & Validation ===
+2026-11-21 12:50:37,012 | INFO | [clickstream_events] Rows=50,000 | Missing=0 | Dupes=9457 | Range=PASS (enum, bad=0) | WARN (Needs Cleaning)
+2026-11-21 12:50:37,654 | INFO | [orders] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-21 12:50:38,067 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmpx8v31fl4' for ephemeral docs site
+2026-11-21 12:50:38,069 | INFO | Loading 'datasources' ->
+[]
+2026-11-21 12:50:38,610 | INFO | [order_items] Rows=112,650 | Missing=0 | Dupes=0 | Range=PASS (>0, bad=0) | PASS
+2026-11-21 12:50:39,138 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmpyn3izq5_' for ephemeral docs site
+2026-11-21 12:50:39,139 | INFO | Loading 'datasources' ->
+[]
+2026-11-21 12:50:39,755 | INFO | [order_reviews] Rows=99,224 | Missing=0 | Dupes=814 | Range=PASS (1-5, bad=0) | WARN (Needs Cleaning)
+2026-11-21 12:50:40,060 | INFO | [customers] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-21 12:50:40,138 | INFO | [products] Rows=32,951 | Missing=610 | Dupes=0 | Range=N/A | WARN (Needs Cleaning)
+2026-11-21 12:50:41,846 | INFO | Generated Data Quality Report PDF -> reports/04_data_quality_report.pdf
+2026-11-21 12:50:41,846 | INFO | === Data Profiling & Validation Completed ===
+2026-11-21 15:33:16,598 | INFO | === Starting Data Profiling & Validation ===
+2026-11-21 15:33:17,134 | INFO | [clickstream_events] Rows=50,000 | Missing=0 | Dupes=9457 | Range=PASS (enum, bad=0) | WARN (Needs Cleaning)
+2026-11-21 15:33:17,885 | INFO | [orders] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-21 15:33:18,652 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmp44va8vag' for ephemeral docs site
+2026-11-21 15:33:18,653 | INFO | Loading 'datasources' ->
+[]
+2026-11-21 15:33:19,246 | INFO | [order_items] Rows=112,650 | Missing=0 | Dupes=0 | Range=PASS (>0, bad=0) | PASS
+2026-11-21 15:33:19,809 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmpb03jalol' for ephemeral docs site
+2026-11-21 15:33:19,810 | INFO | Loading 'datasources' ->
+[]
+2026-11-21 15:33:20,404 | INFO | [order_reviews] Rows=99,224 | Missing=0 | Dupes=814 | Range=PASS (1-5, bad=0) | WARN (Needs Cleaning)
+2026-11-21 15:33:20,701 | INFO | [customers] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-21 15:33:20,783 | INFO | [products] Rows=32,951 | Missing=610 | Dupes=0 | Range=N/A | WARN (Needs Cleaning)
+2026-11-21 15:33:23,984 | INFO | Generated Data Quality Report PDF -> reports/04_data_quality_report.pdf
+2026-11-21 15:33:23,984 | INFO | === Data Profiling & Validation Completed ===
+2026-11-21 16:11:49,769 | INFO | === Starting Data Profiling & Validation ===
+2026-11-21 16:11:50,122 | INFO | [clickstream_events] Rows=50,000 | Missing=0 | Dupes=9457 | Range=PASS (enum, bad=0) | WARN (Needs Cleaning)
+2026-11-21 16:11:50,672 | INFO | [orders] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-21 16:11:51,130 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmp2ai9y7c5' for ephemeral docs site
+2026-11-21 16:11:51,131 | INFO | Loading 'datasources' ->
+[]
+2026-11-21 16:11:51,690 | INFO | [order_items] Rows=112,650 | Missing=0 | Dupes=0 | Range=PASS (>0, bad=0) | PASS
+2026-11-21 16:11:52,159 | INFO | Created temporary directory 'C:\Users\AbhiSai\AppData\Local\Temp\tmpfnrjjs6y' for ephemeral docs site
+2026-11-21 16:11:52,160 | INFO | Loading 'datasources' ->
+[]
+2026-11-21 16:11:52,703 | INFO | [order_reviews] Rows=99,224 | Missing=0 | Dupes=814 | Range=PASS (1-5, bad=0) | WARN (Needs Cleaning)
+2026-11-21 16:11:52,951 | INFO | [customers] Rows=99,441 | Missing=0 | Dupes=0 | Range=N/A | PASS
+2026-11-21 16:11:53,026 | INFO | [products] Rows=32,951 | Missing=610 | Dupes=0 | Range=N/A | WARN (Needs Cleaning)
+2026-11-21 16:11:54,816 | INFO | Generated Data Quality Report PDF -> reports/04_data_quality_report.pdf
+2026-11-21 16:11:54,817 | INFO | === Data Profiling & Validation Completed ===
