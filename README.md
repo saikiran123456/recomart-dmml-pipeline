@@ -1,4 +1,4 @@
-# RecoMart End-to-End Data Management Pipeline (DMML — S1-26_DSEZG529)
+# RecoMart End-to-End Data Management Pipeline (DMML - S1-26_DSEZG529)
 
 Automated, modular data management pipeline for an e-commerce recommendation system using **Docker Desktop (MinIO, PostgreSQL, Redis)**, **Great Expectations**, **Feast**, **DVC**, **MLflow**, and **Prefect**.
 
