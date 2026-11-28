@@ -332,6 +332,6 @@ recomart-dmml-pipeline/
 
 <div align="center">
 
-**Built with ❤️ for Data Management for Machine Learning (`S1-26_DSEZG529`) — BITS Pilani WILP**
+**Built with ❤️ for Data Management for Machine Learning (`S1-26_DSEZG529`) - BITS Pilani WILP**
 
 </div>
