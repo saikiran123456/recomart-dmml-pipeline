@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 RecoMart — End-to-End ML Data Pipeline & Recommendation Engine
+# 🛒 RecoMart - End-to-End ML Data Pipeline & Recommendation Engine
 
 **Automated, Modular Data Management & MLOps Pipeline for E-Commerce Personalization**  
 *BITS Pilani WILP • M.Tech Data Science & Engineering • Data Management for Machine Learning (`S1-26_DSEZG529`)*
